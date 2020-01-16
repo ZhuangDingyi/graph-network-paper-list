@@ -20,7 +20,7 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 - [Graph Kernels](#graph-kernels)
 - [Generative Graph](#generative-graph)
 - [Library](#library)
-- [Interesting groups and topics](#interesting-groups-and-topics)
+- [Interesting groups](#interesting-groups)
 
 <!-- /TOC -->
 
@@ -52,7 +52,7 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 - [Generalizing Graph Convolutional Neural Networks with Edge-Variant Recursions on Graphs (arXiv 2019)](https://arxiv.org/abs/1903.01298)
 - [Temporal Link Prediction in Dynamic Networks (MLG Workshop 2019)](https://www.mlgworkshop.org/2019/papers/MLG2019_paper_22.pdf)
 - [Link Prediction in Dynamic Weighted and Directed Social Network using Supervised Learning (Surface 2015)](https://surface.syr.edu/cgi/viewcontent.cgi?article=1355&context=etd)
-- - [Nonparametric Link Prediction in Dynamic Networks (arXiv 2012)](https://arxiv.org/pdf/1206.6394.pdf)
+- [Nonparametric Link Prediction in Dynamic Networks (arXiv 2012)](https://arxiv.org/pdf/1206.6394.pdf)
 ## GCN for Directed Graph
 - [MOTIFNET: A MOTIF-BASED GRAPH CONVOLUTIONAL NETWORK FOR DIRECTED GRAPHS (IEEE Xplore 2018)](https://ieeexplore.ieee.org/document/8439897)
 
@@ -67,10 +67,15 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 ## Survey
 - [Relational inductive biases, deep learning, and graph networks (arXiv 2018)](https://arxiv.org/pdf/1806.01261.pdf)
 - [A Comprehensive Survey of Graph Embedding Problems, Techniques and Applications (arXiv 2018)](https://arxiv.org/abs/1709.07604)
+- [Network representation learning: A survey (IEEE transactions on Big Data 2018)](https://ieeexplore.ieee.org/abstract/document/8395024)
 - [Representation Learning on Graphs: Methods and Applications (arXiv 2017)](https://arxiv.org/pdf/1709.05584.pdf)
+- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology (NeurIPS 2019)](http://papers.nips.cc/paper/9675-understanding-the-representation-power-of-graph-neural-networks-in-learning-graph-topology)
 
 ## Embedding nodes
-
+- [Anonymous Walk Embeddings (arXiv 2018)](https://arxiv.org/abs/1805.11921)
+- [Inductive Representation Learning on Large Graphs (NeurIPS 2017)](https://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
+- [LINE: Large-scale Information Network Embedding (WWW 2015)](https://dl.acm.org/doi/10.1145/2736277.2741093)
+- [Neural Word Embedding as Implicit Matrix Factorization (NeurIPS 2014)](http://papers.nips.cc/paper/5477-neural-word-embedding-as)
 ## Embedding sub-graphs
 
 ## Spatial-temporal graph embedding
@@ -104,6 +109,8 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 - [Constrained Graph Variational Autoencoders for Molecule Design (NeurIPS 2018)](http://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf)
 # Library
 
-# Interesting groups and topics
+# Interesting groups
 - [Jure Leskovec](https://cs.stanford.edu/people/jure/)
 - [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/)
+- [Rose Yu](http://roseyu.com/)
+- [Lijun Sun](https://lijunsun.github.io/)
