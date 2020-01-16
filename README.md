@@ -1,5 +1,5 @@
 # graph-network-paper-list
-This is [my](https://zhuangdingyi.github.io/) paper reading list concerning current interesting graph network problems. Papers are classified by methods and sorted by descending-year orders. The format of each paper follows **Title (Journal/Conference/Review_forum Year)**. Particularly, I will have preference on how graph network can help solve spatial-temporal problems. You are highly welcome to help complete the paper reading list.
+This is [my](https://zhuangdingyi.github.io/) paper reading list concerning current interesting graph network problems. Papers are classified by methods and sorted by descending-year orders. The format of each paper follows **Title (Journal/Conference/Review_forum Year)**. Particularly, I will have preference on how graph network can help solve spatial-temporal problems. Because my reading list are very limited, you are highly welcome to help complete the paper reading list.
 <!-- TOC -->
 
 - [graph-network-paper-list](#graph-network-paper-list)
@@ -14,7 +14,6 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
   - [Survey](#survey)
   - [Embedding nodes](#embedding-nodes)
   - [Embedding sub-graphs](#embedding-sub-graphs)
-  - [Spatial-temporal graph embedding](#spatial-temporal-graph-embedding)
 - [Diffusion Graph](#diffusion-graph)
 - [Graph Attention (GAT)](#graph-attention-gat)
 - [Graph Kernels](#graph-kernels)
@@ -72,13 +71,17 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology (NeurIPS 2019)](http://papers.nips.cc/paper/9675-understanding-the-representation-power-of-graph-neural-networks-in-learning-graph-topology)
 
 ## Embedding nodes
+- [Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec (WSDM 2018)](https://dl.acm.org/doi/10.1145/3159652.3159706)
 - [Anonymous Walk Embeddings (arXiv 2018)](https://arxiv.org/abs/1805.11921)
 - [Inductive Representation Learning on Large Graphs (NeurIPS 2017)](https://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
+- [node2vec: Scalable Feature Learning for Networks (KDD 2016)](https://dl.acm.org/doi/10.1145/2939672.2939754)
 - [LINE: Large-scale Information Network Embedding (WWW 2015)](https://dl.acm.org/doi/10.1145/2736277.2741093)
 - [Neural Word Embedding as Implicit Matrix Factorization (NeurIPS 2014)](http://papers.nips.cc/paper/5477-neural-word-embedding-as)
-## Embedding sub-graphs
+- [DeepWalk: Online Learning of Social Representations (KDD 2014)](https://dl.acm.org/doi/10.1145/2623330.2623732)
 
-## Spatial-temporal graph embedding
+## Embedding sub-graphs
+- [ Discriminative embeddings of latent variable models for structured data (ICML 2016)](http://proceedings.mlr.press/v48/daib16.pdf)
+- [Molecular graph convolutions: moving beyond fingerprints (Journal of Computer-Aided Molecular Design 2016)](https://link.springer.com/article/10.1007/s10822-016-9938-8)
 
 # Diffusion Graph
 - [Diffusion Improves Graph Learning (NeurIPS 2019)](https://arxiv.org/abs/1911.05485)
@@ -108,7 +111,9 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 - [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NeurIPS 2018)](https://arxiv.org/pdf/1806.02473.pdf)
 - [Constrained Graph Variational Autoencoders for Molecule Design (NeurIPS 2018)](http://papers.nips.cc/paper/8005-constrained-graph-variational-autoencoders-for-molecule-design.pdf)
 # Library
-
+- [Graph Nets library (Deepmind)](https://github.com/deepmind/graph_nets)
+- [Gated Graph Neural Networks (Microsoft)](https://github.com/microsoft/gated-graph-neural-network-samples)
+- [AlphaTree (weslynn)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)
 # Interesting groups
 - [Jure Leskovec](https://cs.stanford.edu/people/jure/)
 - [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/)
