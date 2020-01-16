@@ -1,5 +1,7 @@
 # graph-network-paper-list
 This is [my](https://zhuangdingyi.github.io/) paper reading list concerning current interesting graph network problems. Papers are classified by methods and sorted by descending-year orders. The format of each paper follows **Title (Journal/Conference/Review_forum Year)**. Particularly, I will have preference on how graph network can help solve spatial-temporal problems. Because my reading list are very limited, you are highly welcome to help complete the paper reading list.
+
+**CONTENT**
 <!-- TOC -->
 
 - [graph-network-paper-list](#graph-network-paper-list)
