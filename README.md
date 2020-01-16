@@ -2,6 +2,7 @@
 This is [my](https://zhuangdingyi.github.io/) paper reading list concerning current interesting graph network problems. Papers are classified by methods and sorted by descending-year orders. The format of each paper follows **Title (Journal/Conference/Review_forum Year)**. Particularly, I will have preference on how graph network can help solve spatial-temporal problems. Because my reading list are very limited, you are highly welcome to help complete the paper reading list.
 <!-- TOC -->
 
+**CONTENT**
 - [graph-network-paper-list](#graph-network-paper-list)
 - [General review](#general-review)
 - [Graph Convolution Network (GCN)](#graph-convolution-network-gcn)
@@ -118,4 +119,4 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 - [Jure Leskovec](https://cs.stanford.edu/people/jure/)
 - [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/)
 - [Rose Yu](http://roseyu.com/)
-- [Lijun Sun](https://lijunsun.github.io/)
+- [Lijun Sun (Our lab!)](https://lijunsun.github.io/)
