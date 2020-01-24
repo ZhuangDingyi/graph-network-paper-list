@@ -121,4 +121,5 @@ This is [my](https://zhuangdingyi.github.io/) paper reading list concerning curr
 - [Jure Leskovec](https://cs.stanford.edu/people/jure/)
 - [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/)
 - [Rose Yu](http://roseyu.com/)
+- [Stephan Günnemann](https://www.in.tum.de/daml/team/)
 - [Lijun Sun (Our lab!)](https://lijunsun.github.io/)
